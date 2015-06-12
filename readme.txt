@@ -20,3 +20,4 @@ bash: cargoc: command not found
 rustc: error while loading shared libraries: librustc_driver-4e7c5e5c.so: cannot open shared object file: No such file or directory
 -------------------
 THis is worked on dev branch!
+Creating a new branch is quick and simple;
